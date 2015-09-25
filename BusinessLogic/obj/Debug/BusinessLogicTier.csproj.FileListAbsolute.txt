@@ -1,0 +1,171 @@
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\New folder\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Junouran\Desktop\CNPM\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\bin\Debug\DTO.dll
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\WORK\PRACTICE\OOD\fnal\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\New folder (2)\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\FINAL_verXdone1\FINAL\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL_An - Da Edit Lai Giao Dien\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\dntan_000\Desktop\FINAL\CNPM\BusinessLogic\obj\Debug\BusinessLogic.pdb

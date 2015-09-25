@@ -1,0 +1,18 @@
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DataAcess.dll
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DTO.dll
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DataAcess.pdb
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DTO.pdb
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\BusinessLogic\obj\Debug\BusinessLogic.pdb

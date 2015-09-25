@@ -1,0 +1,69 @@
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\DTO\bin\Debug\DTO.dll
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\DTO\bin\Debug\DTO.pdb
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\DTO\obj\Debug\DTO.dll
+c:\users\sosi\documents\visual studio 2013\Projects\bai_tap_thuc_hanh_1\DTO\obj\Debug\DTO.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\DTO\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\DTO\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\DTO\obj\Debug\DTO.dll
+C:\Users\haipham\Desktop\bai_tap_thuc_hanh_1\DTO\obj\Debug\DTO.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\DTO\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\DTO\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\DTO\obj\Debug\DTO.dll
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\DTO\obj\Debug\DTO.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\11520541_Phạm Văn Hài-BTH1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\haipham\Desktop\PTPMHĐT\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\New folder\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\New folder\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\New folder\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\New folder\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Junouran\Desktop\CNPM\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Junouran\Desktop\CNPM\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Junouran\Desktop\CNPM\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Junouran\Desktop\CNPM\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\haipham\Desktop\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\haipham\Desktop\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\haipham\Desktop\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\haipham\Desktop\CNPM\DTO\obj\Debug\DTO.pdb
+D:\WORK\PRACTICE\OOD\fnal\CNPM\DTO\bin\Debug\DTO.dll
+D:\WORK\PRACTICE\OOD\fnal\CNPM\DTO\bin\Debug\DTO.pdb
+D:\WORK\PRACTICE\OOD\fnal\CNPM\DTO\obj\Debug\DTO.dll
+D:\WORK\PRACTICE\OOD\fnal\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Junouran\Dropbox\ANT\NMCNPM\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\SE_3.1(2)\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\GIAODIEN_1\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\CNPM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL1\FINAL\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL\FINAL\CNPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Quang Vo\Desktop\FINAL_verXdone1 (AN)\CNPM\DTO\obj\Debug\DTO.pdb
